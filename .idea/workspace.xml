@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30f37df1-81ca-4b85-9948-ced1c0bd8d0c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RandomizedQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Subset.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Assignmnet2.iws" />
@@ -73,15 +72,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Deque.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Deque.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Deque.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="124" column="71" selection-start="2258" selection-end="2258" vertical-scroll-proportion="0.41538462">
+            <state line="124" column="71" selection-start="2258" selection-end="2258" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1037#1043#0" expanded="true" />
                 <element signature="e#1555#1561#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="4" selection-start="74" selection-end="74" vertical-scroll-proportion="0.16153847">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -164,6 +172,7 @@
         <option value="$PROJECT_DIR$/src/Deque.java" />
         <option value="$PROJECT_DIR$/src/Subset.java" />
         <option value="$PROJECT_DIR$/src/RandomizedQueue.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -683,12 +692,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Deque.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="71" selection-start="2258" selection-end="2258" vertical-scroll-proportion="0.41538462">
+        <state line="124" column="71" selection-start="2258" selection-end="2258" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1037#1043#0" expanded="true" />
             <element signature="e#1555#1561#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="4" selection-start="74" selection-end="74" vertical-scroll-proportion="0.16153847">
+          <folding />
         </state>
       </provider>
     </entry>
