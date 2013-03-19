@@ -5,6 +5,8 @@
  * Time: 9:43 PM
  * To change this template use File | Settings | File Templates.
  */
+
+@TestClass()
 public class DequeTest
 {
 }
